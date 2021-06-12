@@ -1,7 +1,7 @@
 # Food Managment System
 
 
-http://172.18.2.18/baskaran/food-management-system.git
+https://github.com/marsan186/food-management-system.git
 
 npm install
 
